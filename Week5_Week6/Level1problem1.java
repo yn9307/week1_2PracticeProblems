@@ -2,7 +2,7 @@ package Week5_Week6;
 
 import java.util.Scanner;
 
-public class Level1problem1{
+public class Level1problem1git add Week5_Week6{
 
     public static void main(String[] args) {
 
